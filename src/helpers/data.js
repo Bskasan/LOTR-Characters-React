@@ -6,32 +6,32 @@ const data = [
   },
   {
     name: "Gandalf the Grey",
-    img: "https://static.wikia.nocookie.net/pure-good-wiki/images/b/b0/GandalfTheGrey.jpg/revision/latest?cb=20210321191848",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtuFPC1GaOX-mSBl89DjoiOSFj6-Tmlt02fg&usqp=CAU",
     info: " A wizard best known among hobbits for his fireworks and mischievous sense of humor, but actually one of the greatest powers of Middle-earth. He reveals the truth about the Ring to Frodo and acts as a guide and counselor. The leader of the Fellowship. Other names: Stormcrow, Mithrandir, the Grey Pilgrim, the White Rider, Tharkûn, Olórin, Incánus, and Gandalf the White.",
   },
   {
     name: "Samwise -Sam- Gamgee",
-    img: "https://static.wikia.nocookie.net/lotr/images/5/52/Samwise_Gamgee_1.PNG/revision/latest?cb=20200617172124",
+    img: "https://i.pinimg.com/736x/19/45/dc/1945dc5fe44bcdedef36548f5529502e.jpg",
     info: "A hobbit, Frodo's gardener at home, and his servant and friend on the quest. Sam is very fond of stories about dragons and elves. A member of the Fellowship, he stays with Frodo after it is broken.",
   },
   {
     name: "Meriadoc -Merry- Brandybuck",
-    img: "https://static.wikia.nocookie.net/middle-earth-film-saga/images/7/76/Merry_the_two_towers.png/revision/latest?cb=20160207043604",
+    img: "https://pm1.aminoapps.com/6554/857b5592675c989c75762e1eb36d86eafde8839e_00.jpg",
     info: "A young hobbit, one of Frodo's many cousins. A member of the Fellowship. Friend of Treebeard the Ent and companion of King Théoden of Rohan.",
   },
   {
     name: "Peregrin -Pippin- Took",
-    img: "https://static.wikia.nocookie.net/lotr/images/8/8f/Pippin_Took_profile.jpg/revision/latest?cb=20170121121032",
+    img: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/79dc962d-ed92-487d-98b3-3b80aff0a39a/d7ydpis-9919ad31-389d-40c7-bf1c-38ffdf7a1d4d.jpg/v1/fill/w_400,h_562,q_75,strp/pippin_and_his_daemon_by_lj_todd_d7ydpis-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYyIiwicGF0aCI6IlwvZlwvNzlkYzk2MmQtZWQ5Mi00ODdkLTk4YjMtM2I4MGFmZjBhMzlhXC9kN3lkcGlzLTk5MTlhZDMxLTM4OWQtNDBjNy1iZjFjLTM4ZmZkZjdhMWQ0ZC5qcGciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.xxiUr1cOkPKc1nWfEb9M8nZEcEgAewRLXdWlG6aGlvM",
     info: "A young hobbit, one of Frodo's many cousins. A member of the Fellowship. Later, a member of the Tower Guard of Minas Tirith.",
   },
   {
     name: "Aragorn",
-    img: "https://static.wikia.nocookie.net/book-of-heroes-and-villains/images/8/83/Aragorn.jpg/revision/latest?cb=20220425030645",
+    img: "https://i.pinimg.com/originals/4f/37/e4/4f37e46b043c7d99fa69f6b41d73a28b.jpg",
     info: "The heir of Isildur and the rightful king of Gondor, a mighty warrior and healer. He was raised by the elves of Rivendell and now lives in exile as leader of the Dúnedain, the Rangers of the North. The time has now come for him to reclaim the throne. He leads the Fellowship after Gandalf's fall. Other names: Strider, Elessar, Elfstone, Dúnadan.",
   },
   {
     name: "Legolas",
-    img: "https://static.wikia.nocookie.net/lotr-film-trilogy/images/c/c0/Legolas2.jpg/revision/latest?cb=20180107183813",
+    img: "https://i.pinimg.com/originals/66/bb/a1/66bba1f4b1f5a0ffd1ed5c11cddc2824.jpg",
     info: "Son of Thranduil, king of the Mirkwood elves. He is a great archer with keen eyesight. A member of the Fellowship. Close friend of Gimli the dwarf and companion of Aragorn.",
   },
 ];

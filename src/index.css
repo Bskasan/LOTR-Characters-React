@@ -5,19 +5,19 @@
 }
 
 body {
-  background-color: #ede4c78f;
+  background-color: #72622b8f;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 /*! Player Card/Container Styling */
 
 .card-container {
-  background-image: url("https://assets-prd.ignimgs.com/2022/08/02/lord-of-the-rings-thumbnail-1659474646743.jpg");
+  background-image: url("https://external-preview.redd.it/LhJNGImnN0-xvq6yNqccEhixe5K1Gqj3SeNOFtTS3Qs.jpg?auto=webp&s=73c180aa65b0ae427926c32b62fe2523f18a53de");
   min-width: 300px;
-  opacity: 0.4;
 }
 
 .player-card {
+  background-color: rgb(239, 219, 209);
   height: 400px;
   max-width: 280px;
   min-width: 230px;
