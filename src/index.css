@@ -13,7 +13,10 @@ body {
 
 .card-container {
   background-image: url("https://external-preview.redd.it/LhJNGImnN0-xvq6yNqccEhixe5K1Gqj3SeNOFtTS3Qs.jpg?auto=webp&s=73c180aa65b0ae427926c32b62fe2523f18a53de");
+  background-repeat: no-repeat;
+  background-size: cover;
   min-width: 300px;
+  margin: auto;
 }
 
 .player-card {
