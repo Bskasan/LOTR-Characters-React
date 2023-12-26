@@ -5,14 +5,14 @@
 }
 
 body {
-  background-color: #f4bb008f;
+  background-color: #ede4c78f;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 /*! Player Card/Container Styling */
 
 .card-container {
-  background-image: url("https://static.wikia.nocookie.net/lotr/images/8/87/Ringstrilogyposter.jpg/revision/latest?cb=20210720095933");
+  background-image: url("https://assets-prd.ignimgs.com/2022/08/02/lord-of-the-rings-thumbnail-1659474646743.jpg");
   min-width: 300px;
   opacity: 0.4;
 }
