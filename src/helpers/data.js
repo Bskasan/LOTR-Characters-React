@@ -1,4 +1,4 @@
-export const data = [
+const data = [
   {
     name: "Frodo Baggins",
     img: "https://www.giantbomb.com/a/uploads/original/0/6843/493443-frodo.jpg",
@@ -35,3 +35,5 @@ export const data = [
     info: "Son of Thranduil, king of the Mirkwood elves. He is a great archer with keen eyesight. A member of the Fellowship. Close friend of Gimli the dwarf and companion of Aragorn.",
   },
 ];
+
+export default data;
