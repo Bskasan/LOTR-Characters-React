@@ -1,21 +1,23 @@
 import React, { useState } from "react";
-import { Container, Col, Row, Form } from "react-bootstrap";
+import Container from "react-bootstrap/Container";
+import Col from "react-bootstrap/Col";
+import Row from "react-bootstrap/Row";
+import Form from "react-bootstrap/Form";
 import data from "../helpers/data";
 import CharacterCard from "./CharacterCard";
 
 const CardContainer = () => {
   const [search, setSearch] = useState("");
 
-  console.log(search);
-
   return (
-    <div>
-      <Form.Conrol
+    <>
+      <Form.Control
         placeholder="Search Character..."
         type="search"
         className="w-50 m-auto"
         onChange={(e) => setSearch(e.target.value)}
       />
+
       <Container className="card-container rounded-4 my-4 p-3">
         <Row className="g-3 justify-content-center">
           {data
@@ -29,7 +31,7 @@ const CardContainer = () => {
             ))}
         </Row>
       </Container>
-    </div>
+    </>
   );
 };
 
